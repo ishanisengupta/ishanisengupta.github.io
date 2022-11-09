@@ -1,0 +1,409 @@
+/* screen - home */
+
+.home {
+  align-items: center;
+  background-color: var(--alabaster);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 2991px;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.home .group-container {
+  align-self: flex-start;
+  height: 1326px;
+  margin-top: -651px;
+  position: relative;
+  width: 1497px;
+}
+
+.home .overlap-group2 {
+  height: 899px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1497px;
+}
+
+.home .yellow-bg {
+  height: 877px;
+  left: 720px;
+  position: absolute;
+  top: 0;
+  width: 777px;
+}
+
+.home .image {
+  height: 877px;
+  left: 402px;
+  position: absolute;
+  top: 21px;
+  width: 777px;
+}
+
+.home .image-1 {
+  height: 877px;
+  left: 414px;
+  position: absolute;
+  top: 22px;
+  width: 777px;
+}
+
+.home .header {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  gap: 750px;
+  height: 56px;
+  left: 0;
+  min-width: 1440px;
+  padding: 11px 120px;
+  position: absolute;
+  top: 685px;
+}
+
+.home .ishani-sengupta {
+  letter-spacing: 0;
+  line-height: 180px;
+  min-height: 32px;
+  min-width: 155px;
+  white-space: nowrap;
+}
+
+.home .nav {
+  align-items: flex-start;
+  align-self: center;
+  border: 1px none;
+  display: flex;
+  gap: 48px;
+  min-width: 295px;
+}
+
+.home .tab-default {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  height: 28px;
+  min-width: 52px;
+}
+
+.home .sobre {
+  letter-spacing: 0;
+  line-height: 28px;
+  margin-top: -1px;
+  white-space: nowrap;
+}
+
+.home .tab-default-1 {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  height: 28px;
+  min-width: 95px;
+}
+
+.home .overlap-group3 {
+  height: 273px;
+  left: 120px;
+  position: absolute;
+  top: 866px;
+  width: 616px;
+}
+
+.home .hello-im-ishani {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.home .title {
+  height: 232px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 116px;
+  position: absolute;
+  top: 41px;
+  width: 616px;
+}
+
+.home .overlap-group4 {
+  height: 371px;
+  left: 120px;
+  position: absolute;
+  top: 932px;
+  width: 1320px;
+}
+
+.home .with-experience-in-d {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 217px;
+}
+
+.home .robot-danger {
+  height: 371px;
+  left: 950px;
+  mix-blend-mode: darken;
+  position: absolute;
+  top: 0;
+  width: 370px;
+}
+
+.home .group-11 {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  height: 68px;
+  left: 120px;
+  min-width: 164px;
+  position: absolute;
+  top: 1258px;
+}
+
+.home .overlap-group {
+  height: 68px;
+  position: relative;
+  width: 164px;
+}
+
+.home .rectangle-1 {
+  background-color: #4d7e3e99;
+  border: 2px none;
+  border-radius: 6px;
+  height: 61px;
+  left: 6px;
+  position: absolute;
+  top: 7px;
+  width: 158px;
+}
+
+.home .rectangle-8 {
+  border: 1px solid;
+  border-color: var(--bronze-olive);
+  border-radius: 6px;
+  height: 61px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 158px;
+}
+
+.home .resume {
+  color: var(--bronze-olive);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  left: 38px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 15px;
+}
+
+.home .projects {
+  align-self: flex-start;
+  height: 116px;
+  letter-spacing: 0;
+  line-height: 116px;
+  margin-left: 120px;
+  margin-top: 97px;
+  white-space: nowrap;
+}
+
+.home .flex-row {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 46.0px;
+  margin-top: 45px;
+  min-width: 1288px;
+}
+
+.home .overlap-group1 {
+  height: 524px;
+  position: relative;
+  width: 792px;
+}
+
+.home .project-nfo {
+  align-items: flex-end;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  height: 524px;
+  justify-content: flex-end;
+  left: 296px;
+  min-width: 496px;
+  padding: 102px 38.9px;
+  position: absolute;
+  top: 0;
+}
+
+.home .frame-3350 {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  min-height: 319px;
+  width: 407px;
+}
+
+.home .text-2 {
+  letter-spacing: 0;
+  line-height: 150px;
+  margin-bottom: -30px;
+  margin-top: -1px;
+  white-space: nowrap;
+}
+
+.home .text-3 {
+  letter-spacing: 0;
+  line-height: 150px;
+  margin-bottom: -42px;
+  margin-top: 24px;
+  white-space: nowrap;
+}
+
+.home .boto-secudrio {
+  align-items: flex-start;
+  border: 1px solid;
+  border-color: var(--shark);
+  border-radius: 24px;
+  display: flex;
+  height: 43px;
+  margin-top: 25px;
+  min-width: 150px;
+  padding: 7px 24px;
+}
+
+.home .text {
+  letter-spacing: 0;
+  line-height: 150px;
+  min-height: 27px;
+  white-space: nowrap;
+}
+
+.home .banjo {
+  height: 289px;
+  left: 0;
+  position: absolute;
+  top: 98px;
+  width: 303px;
+}
+
+.home .pexels-elly-fairytale-3823207-1 {
+  height: 526px;
+  object-fit: cover;
+  width: 496px;
+}
+
+.home .flex-row-1 {
+  align-items: center;
+  display: flex;
+  margin-left: 33.0px;
+  margin-top: 78px;
+  min-width: 1323px;
+}
+
+.home .rectangle-7 {
+  height: 524px;
+  object-fit: cover;
+  width: 496px;
+}
+
+.home .project-nfo-1 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  height: 524px;
+  justify-content: flex-end;
+  min-width: 496px;
+  padding: 159px 38.9px;
+}
+
+.home .frame-3350-1 {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  min-height: 205px;
+  width: 407px;
+}
+
+.home .text-1 {
+  letter-spacing: 0;
+  line-height: 150px;
+  margin-bottom: -90px;
+  margin-top: -1px;
+  white-space: nowrap;
+}
+
+.home .text-4 {
+  letter-spacing: 0;
+  line-height: 150px;
+  margin-bottom: -96px;
+  margin-top: 24px;
+  white-space: nowrap;
+}
+
+.home .dog-head-profile {
+  height: 266px;
+  margin-bottom: 60.0px;
+  margin-left: 50px;
+  width: 281px;
+}
+
+.home .flex-row-2 {
+  align-items: center;
+  display: flex;
+  margin-left: 38.0px;
+  margin-top: 80px;
+  min-width: 1296px;
+}
+
+.home .laptop-work {
+  height: 301px;
+  margin-top: 51.0px;
+  width: 304px;
+}
+
+.home .project-nfo-2 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  height: 524px;
+  justify-content: flex-end;
+  min-width: 496px;
+  padding: 118.5px 38.9px;
+}
+
+.home .frame-3350-2 {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  min-height: 286px;
+  width: 407px;
+}
+
+.home .text-5 {
+  letter-spacing: 0;
+  line-height: 150px;
+  margin-bottom: -15px;
+  margin-top: 24px;
+  white-space: nowrap;
+}
+
+.home .icon-linkedin {
+  height: 117px;
+  margin-left: 33.0px;
+  margin-top: 120px;
+  width: 123px;
+}

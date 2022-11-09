@@ -1,0 +1,243 @@
+/* screen - about */
+
+.about {
+  align-items: center;
+  background-color: var(--alabaster);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 54px;
+  height: 944px;
+  padding: 24px 0;
+  width: 1440px;
+}
+
+.about .header {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  gap: 750px;
+  height: 56px;
+  min-width: 1440px;
+  padding: 11px 120px;
+}
+
+.about .ishani-sengupta {
+  letter-spacing: 0;
+  line-height: 180px;
+  min-height: 32px;
+  min-width: 155px;
+  white-space: nowrap;
+}
+
+.about .nav {
+  align-items: flex-start;
+  align-self: center;
+  border: 1px none;
+  display: flex;
+  gap: 48px;
+  min-width: 295px;
+}
+
+.about .tab {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  height: 28px;
+  min-width: 52px;
+}
+
+.about .sobre {
+  letter-spacing: 0;
+  line-height: 28px;
+  margin-top: -1px;
+  white-space: nowrap;
+}
+
+.about .tab-default {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  height: 28px;
+  min-width: 95px;
+}
+
+.about .overlap-group5 {
+  height: 741px;
+  margin-left: 18.0px;
+  position: relative;
+  width: 1266px;
+}
+
+.about .overlap-group-container {
+  height: 741px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1266px;
+}
+
+.about .overlap-group3 {
+  height: 508px;
+  left: 0;
+  position: absolute;
+  top: 233px;
+  width: 703px;
+}
+
+.about .about-me {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  height: 405px;
+  left: 0;
+  min-width: 588px;
+  position: absolute;
+  top: 0;
+}
+
+.about .text {
+  color: var(--gray);
+  font-family: var(--font-family-nunito);
+  font-size: var(--font-size-xxl);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 150px;
+  margin-top: -1px;
+  width: 588px;
+}
+
+.about .linked-in {
+  height: 117px;
+  left: 580px;
+  position: absolute;
+  top: 391px;
+  width: 123px;
+}
+
+.about .overlap-group4 {
+  height: 557px;
+  left: 673px;
+  position: absolute;
+  top: 0;
+  width: 593px;
+}
+
+.about .bg-2 {
+  background-color: #fdc435;
+  background-image: url(../img/pexels-artem-beliaikin-1832323-removebg-preview-1@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 262px;
+  height: 524px;
+  left: 30px;
+  position: absolute;
+  top: 33px;
+  width: 524px;
+}
+
+.about .image {
+  align-items: flex-end;
+  border: 1px none;
+  display: flex;
+  height: 557px;
+  left: 0;
+  min-width: 593px;
+  padding: 0.0px 0;
+  position: absolute;
+  top: 0;
+}
+
+.about .vector {
+  height: 539px;
+  width: 578px;
+}
+
+.about .group-6 {
+  align-items: flex-end;
+  display: flex;
+  height: 480px;
+  justify-content: flex-end;
+  left: 41px;
+  min-width: 460px;
+  position: absolute;
+  top: 47px;
+}
+
+.about .rectangle-13 {
+  background-color: var(--bronze-olive);
+  border: 1px none;
+  height: 30px;
+  margin-bottom: -0.28px;
+  transform: rotate(24.00deg);
+  width: 5px;
+}
+
+.about .rectangle-1 {
+  background-color: var(--bronze-olive);
+  border: 1px none;
+  height: 30px;
+  margin-bottom: -0.28px;
+  margin-left: 17px;
+  transform: rotate(24.00deg);
+  width: 5px;
+}
+
+.about .group-10 {
+  align-items: center;
+  align-self: flex-start;
+  border-radius: 6px;
+  display: flex;
+  gap: 2px;
+  height: 56px;
+  margin-left: 312px;
+  min-width: 50px;
+}
+
+.about .overlap-group {
+  height: 24px;
+  position: relative;
+  width: 24px;
+}
+
+.about .rectangle-18 {
+  background-color: var(--bronze-olive);
+  border: 1px none;
+  border-radius: 6px;
+  height: 24px;
+  left: 9px;
+  position: absolute;
+  top: 0;
+  width: 6px;
+}
+
+.about .rectangle-19 {
+  background-color: var(--bronze-olive);
+  border: 1px none;
+  border-radius: 6px;
+  height: 24px;
+  left: 9px;
+  position: absolute;
+  top: 0;
+  transform: rotate(-90deg);
+  width: 6px;
+}
+
+.about .overlap-group-container-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  min-height: 56px;
+  width: 24px;
+}
+
+.about .about-me-1 {
+  height: 116px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 116px;
+  position: absolute;
+  top: 85px;
+  white-space: nowrap;
+}

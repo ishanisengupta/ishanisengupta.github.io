@@ -1,0 +1,278 @@
+/* screen - experience */
+
+.experience {
+  align-items: flex-end;
+  background-color: var(--alabaster);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 2484px;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.experience .overlap-group2 {
+  align-items: flex-start;
+  background-image: url(../img/yellow-bg-2@1x.png);
+  background-size: 100% 100%;
+  display: flex;
+  margin-right: -57px;
+  margin-top: -1158px;
+  min-width: 777px;
+}
+
+.experience .image {
+  height: 877px;
+  width: 777px;
+}
+
+.experience .header {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  gap: 750px;
+  height: 56px;
+  margin-top: 310px;
+  min-width: 1440px;
+  padding: 11px 120px;
+}
+
+.experience .ishani-sengupta {
+  letter-spacing: 0;
+  line-height: 180px;
+  min-height: 32px;
+  min-width: 155px;
+  white-space: nowrap;
+}
+
+.experience .nav {
+  align-items: flex-start;
+  align-self: center;
+  border: 1px none;
+  display: flex;
+  gap: 48px;
+  min-width: 295px;
+}
+
+.experience .tab-default {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  height: 28px;
+  min-width: 52px;
+}
+
+.experience .sobre {
+  letter-spacing: 0;
+  line-height: 28px;
+  margin-top: -1px;
+  white-space: nowrap;
+}
+
+.experience .tab-default-1 {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  height: 28px;
+  min-width: 95px;
+}
+
+.experience .experience-1 {
+  align-self: center;
+  height: 116px;
+  letter-spacing: 0;
+  line-height: 116px;
+  margin-right: 397.0px;
+  margin-top: 145px;
+  min-width: 613px;
+  white-space: nowrap;
+}
+
+.experience .overlap-group {
+  align-self: flex-start;
+  height: 291px;
+  margin-left: 79px;
+  margin-top: 180px;
+  position: relative;
+  width: 600px;
+}
+
+.experience .polygon-12 {
+  height: 49px;
+  left: 551px;
+  position: absolute;
+  top: 121px;
+  width: 49px;
+}
+
+.experience .project1 {
+  align-items: flex-end;
+  border: 1px none;
+  border-radius: 24px;
+  box-shadow: 0px 6px 64px #7090b01a;
+  display: flex;
+  height: 291px;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 592px;
+}
+
+.experience .frame-3350 {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: -1px;
+  margin-bottom: -47px;
+  min-height: 338px;
+  width: 813px;
+}
+
+.experience .text {
+  letter-spacing: 0;
+  line-height: 150px;
+  margin-top: -1px;
+  white-space: nowrap;
+}
+
+.experience .text-2 {
+  letter-spacing: 0;
+  line-height: 150px;
+  width: 535px;
+}
+
+.experience .project-nfo {
+  background-color: var(--white);
+  border: 1px none;
+  height: 524px;
+  margin-bottom: -233px;
+  width: 992px;
+}
+
+.experience .flex-row {
+  align-items: center;
+  display: flex;
+  gap: 61px;
+  height: 311px;
+  margin-right: 52.0px;
+  margin-top: 109px;
+  min-width: 661px;
+}
+
+.experience .polygon-10 {
+  height: 50px;
+  margin-bottom: 0.99px;
+  width: 49px;
+}
+
+.experience .frame-335 {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: -1px;
+  min-height: 311px;
+  width: 551px;
+}
+
+.experience .text-1 {
+  letter-spacing: 0;
+  line-height: 150px;
+  white-space: nowrap;
+}
+
+.experience .component-26 {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  margin-right: -96.04px;
+  margin-top: 28px;
+  min-width: 1666px;
+  transform: rotate(-90.00deg);
+}
+
+.experience .rectangle-3 {
+  background-color: #84a5798f;
+  border: 1px none;
+  border-radius: 20px 0px 0px 20px;
+  height: 72px;
+  width: 416px;
+}
+
+.experience .rectangle-4 {
+  background-color: #84a579;
+  border: 1px none;
+  height: 72px;
+  width: 416px;
+}
+
+.experience .rectangle-5 {
+  background-color: #84a5798f;
+  border: 1px none;
+  height: 72px;
+  width: 416px;
+}
+
+.experience .rectangle-6 {
+  background-color: #84a579;
+  border: 1px none;
+  border-radius: 0px 20px 20px 0px;
+  height: 72px;
+  width: 416px;
+}
+
+.experience .overlap-group1 {
+  align-self: flex-start;
+  height: 311px;
+  margin-left: 79px;
+  margin-top: 26px;
+  position: relative;
+  width: 816px;
+}
+
+.experience .polygon-11 {
+  height: 50px;
+  left: 551px;
+  position: absolute;
+  top: 156px;
+  width: 49px;
+}
+
+.experience .frame-3354 {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: -1px;
+  left: 0;
+  min-height: 311px;
+  position: absolute;
+  top: 0;
+  width: 816px;
+}
+
+.experience .flex-row-1 {
+  align-items: center;
+  display: flex;
+  gap: 51px;
+  height: 311px;
+  margin-right: 62.0px;
+  margin-top: 96px;
+  min-width: 651px;
+}
+
+.experience .polygon-9 {
+  height: 51px;
+  margin-top: 6.01px;
+  width: 49px;
+}
+
+.experience .linked-in {
+  align-self: center;
+  height: 117px;
+  margin-right: 5.0px;
+  margin-top: 200px;
+  width: 123px;
+}
