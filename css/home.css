@@ -281,9 +281,10 @@
   padding: 7px 24px;
 }
 
+
 .home .text {
   letter-spacing: 0;
-  line-height: 150px;
+  line-height: 30px;
   min-height: 27px;
   white-space: nowrap;
 }
@@ -321,10 +322,10 @@
   background-color: var(--white);
   border: 1px none;
   display: flex;
-  height: 524px;
+  height: 500px;
   justify-content: flex-end;
   min-width: 496px;
-  padding: 159px 38.9px;
+  padding: 118.5px 38.9px;
 }
 
 .home .frame-3350-1 {
@@ -332,7 +333,7 @@
   border: 1px none;
   display: flex;
   flex-direction: column;
-  min-height: 205px;
+  min-height: 20px;
   width: 407px;
 }
 
