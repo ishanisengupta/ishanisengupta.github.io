@@ -85,6 +85,10 @@
   width: 703px;
 }
 
+.overlap-group3 .nunito-normal-gray-18px {
+  max-width: 500px;
+}
+
 .about .about-me {
   align-items: flex-start;
   border: 1px none;
