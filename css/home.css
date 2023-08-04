@@ -330,10 +330,15 @@ frame-3350 .nunito-normal-gray-18px {
   background-color: var(--white);
   border: 1px none;
   display: flex;
+  flex-direction: column;
   height: 500px;
   justify-content: flex-end;
   min-width: 496px;
   padding: 118.5px 38.9px;
+}
+
+.project-nfo-1 .nunito-normal-gray-18px {
+  padding-bottom: 3em;
 }
 
 .home .frame-3350-1 {

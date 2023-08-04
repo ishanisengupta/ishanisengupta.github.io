@@ -2,13 +2,19 @@
 
 .experience {
   align-items: flex-end;
-  background-color: var(--alabaster);
+  /*background-color: var(--alabaster);*/
   border: 1px none;
   display: flex;
   flex-direction: column;
   height: 2484px;
   overflow: hidden;
   width: 1440px;
+}
+
+.about .bg-2 {
+  background-image: url(/img/siterx.png);
+  height: 64px;
+  width: 44px;
 }
 
 .experience .overlap-group2 {
